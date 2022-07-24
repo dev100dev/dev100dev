@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/dev100dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev100dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev100dev&layout=compact&langs_count=7&theme=merko"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev100dev&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev100dev-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
